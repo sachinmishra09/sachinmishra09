@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a final-year Computer Science student with a growing passion for problem-solving, algorithms and building web experiences.<br>I have experience with Java, C++, Python, HTML, CSS, JavaScript, React.js, and Tailwind CSS, primarily focusing on frontend development. I'm currently learning backend technologies Node.js, Express.js, and MongoDB to expand my full-stack development skills.
+Hi, I am a final-year Computer Science student with a growing passion for problem-solving, algorithms and building web experiences.<br>I have experience with Java, C++, Python, HTML, CSS, JavaScript, React.js, and Tailwind CSS. I'm currently learning backend technologies Node.js, Express.js, and MongoDB to expand my full-stack development skills.
 
 
 ## 🌐 Socials:
