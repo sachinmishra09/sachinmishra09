@@ -6,7 +6,7 @@ Hi, I am a final-year Computer Science student with a growing passion for proble
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinmshr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinmishra0973@gmail.com) 
 
 # 💻 Tech Stack:
-![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css3,javascript,reactjs,nodejs,expressjs,mongodb,mysql,fastapi,docker,python,postman,redux,git,github,vercel&perline=12&radius=45)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=html,css3,javascript,reactjs,nodejs,expressjs,mongodb,mysql,fastapi,docker,python,postman,redux,git,github,vercel&perline=5&radius=48)
 
 <!--
 # 📊 GitHub Stats:
